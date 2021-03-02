@@ -1,0 +1,19 @@
+{
+    "client": {
+        "name": "João",
+        "email": "joao@joao.com",
+        "tel": "12345678"
+    },
+    "products": [
+        {
+            "id": 1,
+            "price": 10.40,
+            "quantity": 4
+        },
+        {
+            "id": 3,
+            "price": 12.00,
+            "quantity": 10
+        }
+    ]
+}

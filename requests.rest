@@ -1,0 +1,45 @@
+GET https://localhost:5001/products HTTP/1.1
+
+###
+
+POST https://localhost:5001/products HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Bola",
+    "price": 5.5,
+    "imgSrc": "/images/bola.jpg"
+}
+
+###
+
+GET https://localhost:5001/orders HTTP/1.1
+
+###
+
+POST https://localhost:5001/orders HTTP/1.1
+Content-Type: application/json
+
+{
+    "client": {
+        "name": "Nando",
+        "email": "nando@nando.com",
+        "tel": "34237129"
+    },
+    "items": [
+        {
+            "name": "Bola",
+            "idProduct": 3,
+            "price": 7.3,
+            "quantity": 5
+        }
+    ]
+}
+
+###
+
+GET https://localhost:5001/clients HTTP/1.1
+
+###
+
+GET https://localhost:5001/items HTTP/1.1
