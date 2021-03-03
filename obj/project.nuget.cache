@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5K2iZOZtXSoQ+Y5jDX4WLPibrLc20Ekm3EbJVQxs5kRNUnk4ZG4Btg5RJctpqz1vi04JqOlZTmaPuKjUVVublw==",
+  "dgSpecHash": "mQ1YJRrTCiv1cM9KdtaFY+mG/uNuKKdPJSWKtuTM6yNURO+RdYXtJCT8fuxzmLmUmFe8aoWI2aRoG3YJT0lDqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nando\\Documents\\JET\\desafio-blue-modas\\blue-modas-api\\backend.csproj",
+  "projectFilePath": "C:\\Users\\nando\\Documents\\JET\\blue-modas-api\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nando\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\nando\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",

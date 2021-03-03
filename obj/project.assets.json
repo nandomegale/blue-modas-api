@@ -755,11 +755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nando\\Documents\\JET\\desafio-blue-modas\\blue-modas-api\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\nando\\Documents\\JET\\blue-modas-api\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\nando\\Documents\\JET\\desafio-blue-modas\\blue-modas-api\\backend.csproj",
+      "projectPath": "C:\\Users\\nando\\Documents\\JET\\blue-modas-api\\backend.csproj",
       "packagesPath": "C:\\Users\\nando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nando\\Documents\\JET\\desafio-blue-modas\\blue-modas-api\\obj\\",
+      "outputPath": "C:\\Users\\nando\\Documents\\JET\\blue-modas-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
